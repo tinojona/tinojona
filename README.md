@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome at my GitHub Account
+
+I am a student of Climate Sciences with a special interest in the impacts of the climate system on us as a society. That is why I wrote my master's thesis about *the risk of hospitalization associated with foehn winds and heat in the mountainous region in Switzerland* with the Climate Epidemiology and Public Health group at the University of Bern.
+
+
 
 <!--
 **tinojona/tinojona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
