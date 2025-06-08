@@ -1,7 +1,5 @@
 ## Welcome to my GitHub profile! 🚀
 
-<br>
-
 ### 🎓 Student of Climate Sciences with a special interest in how the climate system impacts society
 - 📖 Wrote my master’s thesis on the risk of hospitalization associated with foehn winds and heat in the mountainous region in Switzerland with the Climate Epidemiology and Public Health group at the University of Bern.
 - 🌍 Passionate about climate variability and its effects on human health and society.
