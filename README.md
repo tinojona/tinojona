@@ -1,8 +1,5 @@
 ## Welcome to my GitHub profile! 🚀
 
-![Hello there](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZvc3Uxc3dldzV4N2l1Z3c4cDhzNmttamtxbmJ5ZGV4NjQ2ejZodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiIzJSKB4l7xTouE8/giphy.gif)
-
-
 <br>
 
 ### 🎓 Student of Climate Sciences with a special interest in how the climate system impacts society
