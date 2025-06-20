@@ -12,5 +12,5 @@
 - **R**: RStudio, RMarkdown, RShiny (for data visualization & interactive apps)  
 - **Python**: Pandas, NumPy, Matplotlib (for data analysis & modeling)  
 
-
+**If you want to learn more about me, my publications and presentations, please visit my [website](https://tinojona.github.io/).**
 
